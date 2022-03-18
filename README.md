@@ -28,7 +28,7 @@ The user has to type the value in the input box and the based on the input value
 
 For example: if you enter the city – `benton` then the table will show us the record belongs to Benton city and there is only one record that belongs to `benton`.
 
-![Search on City]()
+![Search on City](https://github.com/AditiOracle/UFOs/blob/main/Resources/Search%20by%20City.PNG)
 
 Enter a city: bonita
 
@@ -36,9 +36,9 @@ Enter a Country: us
 
 It will give you results based on these two filters
 
-![Search on City and Country]()
+![Search on City and Country](https://github.com/AditiOracle/UFOs/blob/main/Resources/Search%20by%20City%20and%20Country.PNG)
 
-![Search on all field values]()
+![Search on all field values](https://github.com/AditiOracle/UFOs/blob/main/Resources/All%20fields%20search.PNG)
 
 **Summary:**
 
